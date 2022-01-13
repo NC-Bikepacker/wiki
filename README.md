@@ -5,7 +5,7 @@
 ## Wiki contents
 1. [User stories](https://github.com/NCProject-CyclistsHabr/wiki/wiki/User-stories)
 1. [Application distinguishes](https://github.com/NCProject-CyclistsHabr/wiki/wiki/Application-distinguishes)
-1. Application ER-diagram
+1. [Application ER-diagram](https://github.com/NC-Bikepacker/wiki/wiki/ERD-diagram)
 1. [Architecture diagram](https://github.com/NCProject-CyclistsHabr/wiki/wiki/Architecture-diagram)
 1. [Database instructions](https://github.com/NCProject-CyclistsHabr/wiki/wiki/Database-instructions)
 1. [Connect to database](https://github.com/NCProject-CyclistsHabr/wiki/wiki/Database-connection)
